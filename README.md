@@ -1,3 +1,35 @@
+<div align="center">
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
+</div>
+<br>
+
+<!-- <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="sdfjaf"> -->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akash Saha</h1>
+<br>
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+  <br>
+
+ ## 👨🏻‍💻 About Me:
+
+<img  src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" height="280px"  align="right" />
+
+<!-- https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif -->
+- 🔭 I’m currently working on Something Intresting.
+
+- 🌱 I’m currently learning MERN Stack
+
+- 👯 I’m looking to collaborate for Projects
+
+- 💓 I love designing websites and coding.
+
+- 📫 How to reach me akashkaliyaganj2016@gmail.com
+
+
+<br>
+<br>
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/akash.saha.56614) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-saha-669a0a1a2/) 
@@ -18,4 +50,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AkashSaha747&icon=6&color=9)](https://visitcount.itsvg.in)
 
+
+
+<div align="center">
+<img src= "https://media2.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e475umbdjo944srf0jjqukjmklmdap60uxka1m3gxdc&rid=giphy.gif&ct=g" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
