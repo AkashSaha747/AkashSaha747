@@ -52,7 +52,4 @@
 
 
 
-<div align="center">
-<img src= "https://media2.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e475umbdjo944srf0jjqukjmklmdap60uxka1m3gxdc&rid=giphy.gif&ct=g" />
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
