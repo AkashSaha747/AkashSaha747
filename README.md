@@ -26,7 +26,7 @@
 
 - 📫 How to reach me akashkaliyaganj2016@gmail.com
 
-- 📄 Know more about me and my work [Portfolio](https://AkashSaha747.github.io) 
+- 📄 Know more about me and my work <a href="https://AkashSaha747.github.io" target="_blank">Portfolio</a> 
 
 
    
