@@ -18,9 +18,9 @@
 <!-- https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif -->
 - 🔭 I’m currently working on Something Intresting.
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working on MERN Stack
 
-- 👯 I’m looking to collaborate for Projects
+- 👯 I’m looking to collaborate for more Projects
 
 - 💓 I love designing websites and coding.
 
